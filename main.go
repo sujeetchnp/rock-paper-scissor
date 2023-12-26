@@ -1,7 +1,7 @@
 package main
 
 import (
-	service "github.com/sujeetchnp/rock-paper-scissor/service"
+	"github.com/sujeetchnp/rock-paper-scissor/service"
 )
 
 func main() {
